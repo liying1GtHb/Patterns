@@ -1,2 +1,2 @@
 # Patterns
-draw patterns using Matlab
+draw patterns using Python
